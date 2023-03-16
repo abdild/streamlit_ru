@@ -1,4 +1,4 @@
-# Работа с библиотекой streamlit
+# Работа с библиотекой Streamlit
 
 ## Установка
-![Установка]([ссылка](https://docs.streamlit.io/library/get-started/installation))
+Установка Streamlit на Windows и Linux описана на сайте библиотеки (https://docs.streamlit.io/library/get-started/installation))
