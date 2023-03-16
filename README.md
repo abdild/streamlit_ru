@@ -1,1 +1,1 @@
-# streamlit_ru
+# Работа с библиотекой streamlit
