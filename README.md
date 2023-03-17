@@ -4,4 +4,4 @@ Streamlit за считанные минуты превращает скрипт
 Все на чистом Python. Опыт работы с фронтендом не требуется.
 
 ## Установка
-Установка на Windows и Linux описана на сайте библиотеки Streamlit (https://docs.streamlit.io/library/get-started/installation))
+Установка библиотеки на Windows и Linux описана на сайте Streamlit (https://docs.streamlit.io/library/get-started/installation))
